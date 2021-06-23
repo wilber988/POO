@@ -1,4 +1,14 @@
-<?
-Escribe las clases o por lo menos guarda el proyecto antes de subirlo co;o
-//ok gracias compadre
+<?php
+echo "CALCULADORA DE PHP";
+$suma=1;
+$Resta=2;
+$Multiplicacion=3;
+$Divicion=4
+$operacion"";
+echo "Que operacion desea realizar: ";
+echo "1 = Suma";
+echo "2 = Resta";
+echo "3 = Multiplicacion";
+echo "4 = Divicion";
+
 ?>
